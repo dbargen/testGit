@@ -4,4 +4,5 @@ public interface MyPluginComponent
 {
     String getName();
     //
+    //testComment
 }
